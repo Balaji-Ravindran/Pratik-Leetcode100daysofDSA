@@ -1,1 +1,1 @@
-# Pratik-Leetcode100daysofDSAP
+# Pratik-Leetcode100daysofDSA
