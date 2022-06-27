@@ -1,6 +1,8 @@
 ####Problem Statement####
 ####https://leetcode.com/problems/single-number####
 
+####Solution Link Youtube: https://www.youtube.com/watch?v=v6s3l3ezNQI######
+
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         ans = 0
